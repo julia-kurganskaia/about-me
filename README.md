@@ -1,6 +1,7 @@
 # Julia Kurganskaia
 
-**LinkedIn:**  https://www.linkedin.com/in/julia-kurganskaia-a05672208/
+[My LinkedIn profile](https://www.linkedin.com/in/julia-kurganskaia-a05672208/)
+
 
 I'm a Software Developer with strong communication and soft skills background. Coding is my passion. I love designing intuitive and modern interfaces that give users a great experience.
 
