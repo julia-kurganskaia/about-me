@@ -1,5 +1,7 @@
 # Julia Kurganskaia
 
+**LinkedIn:**  https://www.linkedin.com/in/julia-kurganskaia-a05672208/
+
 I'm a Software Developer with strong communication and soft skills background. Coding is my passion. I love designing intuitive and modern interfaces that give users a great experience.
 
 In 2018 I was talking with a friend who works in tech and they told me that you don’t need to be a maths genius to code – “I’ll bet you would love it!”. I started my journey into software development through online programming courses and I found my love for the technical aspects, too. Now that I have come out of Enspiral Dev Academy bootcamp (Wellington, New Zealand) as a full stack software developer, it has really grasped my passion and interest in the industry. I am excited to see what’s around the corner in terms of my career.
